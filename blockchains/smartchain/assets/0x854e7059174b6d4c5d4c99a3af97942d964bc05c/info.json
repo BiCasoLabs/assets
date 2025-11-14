@@ -1,0 +1,11 @@
+{
+  "name": "Binance Refund",
+  "symbol": "BHR",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "$BHR is forged by fury. Binance is a god? Then we are godslayers.",
+  "website": "https://x.com/bhrtmdhq",
+  "explorer": "https://bscscan.com/token/0x854e7059174b6d4c54c99a3af97942d964bc05c",
+  "status": "active",
+  "id": "0x854e7059174b6d4c54c99a3af97942d964bc05c"
+}
